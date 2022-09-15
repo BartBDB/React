@@ -5,11 +5,11 @@ import "./App.css";
 
 const App = () => {
     return (
-        <div>
+        <>
             <Card />
             <Card2 />
             <Card3 />
-        </div>
+        </>
     );
 }
 
